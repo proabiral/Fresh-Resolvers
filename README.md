@@ -7,3 +7,6 @@ This list can be used with other tools that make use of resolves like [shuffledn
 
 ### Thanks :
 Thanks to [Codingo](https://twitter.com/codingo_) and [Vortexau](https://twitter.com/vortexau) for creating awesome [DNS Validator](https://github.com/vortexau/dnsvalidator)
+
+
+**If you notice that the resolvers list has not been updated for more than a day, please send me a DM on [Twitter](https://twitter.com/proabiral).** 
